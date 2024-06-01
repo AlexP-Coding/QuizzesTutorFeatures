@@ -8,7 +8,7 @@ It was originally a fork from https://github.com/tecnico-softeng-2022/es22-28 as
 
 Work was done in a software development team of 6, according to Agile practices.
 
-This team was split into subgroups of 2, each one responsible for one feature.
+This team was split into subgroups of 2, each one responsible for one feature. My subgroup worked in the PRI feature - Failed Answers (Perguntas de Resposta Incorreta) .
 
 Feature implementation involved 3 stages:
 1. Implementation of:
