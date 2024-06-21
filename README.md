@@ -2,15 +2,15 @@
 
 This project consists of the addition of new features to the [Quizzes Tutor](QuizzesTutor.md) application.
 
-It was originally a fork from https://github.com/tecnico-softeng-2022/es22-28 as per a class project. So the work done may be kept for posterity in case the original repository is deleted, I have created this repo for it.
+It was originally a fork from https://github.com/tecnico-softeng-2022/es22-28 as per a class project. I have created this repo so the work done may be kept for posterity in case the original repository is deleted.
 
 ## The Process
 
 Work was done in a software development team of 6, according to Agile practices.
 
-This team was split into subgroups of 2, each one responsible for one feature. My subgroup worked in the PRI feature - Failed Answers (Perguntas de Resposta Incorreta) .
+This team was split into subgroups of 2, each one responsible for one feature. My subgroup worked in the "PRI" feature (i.e. "Perguntas de Resposta Incorreta", or "Failed Answers").
 
-Feature implementation involved 3 stages:
+Feature implementation involved 3 stages, detailed below.
 1. Implementation of:
   - Domain-base code
   - Service tests
