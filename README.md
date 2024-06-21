@@ -1,6 +1,6 @@
 # Quizzes Tutor Features
 
-This project consists of the addition of new features to the [Quizzes Tutor](QuizzesTutor.md) application.
+This project consists of the addition of new features to the [Quizzes Tutor](QuizzesTutor.md) application. Instructions on how to run the application locally are present in the main QuizzesTutor repo.
 
 It was originally a fork from https://github.com/tecnico-softeng-2022/es22-28 as per a class project. I have created this repo so the work done may be kept for posterity in case the original repository is deleted.
 
